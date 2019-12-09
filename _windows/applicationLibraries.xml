@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="tinymce" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.tiny.cloud_1_7m7hghrb29aw5oyg8jczn5xh1tpdchtsx2tmozv0b9pj81mp_tinymce_5_tinymce.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.tiny.cloud_1_7m7hghrb29aw5oyg8jczn5xh1tpdchtsx2tmozv0b9pj81mp_tinymce_5_tinymce.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
